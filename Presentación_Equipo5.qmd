@@ -1,0 +1,327 @@
+---
+title: "Casas de empeño"
+author: "<span style='font-size:0.6em;'>Ángel Gabriel Ramos Mendoza, Yoshua Anaya Bedolla, Miguel Ángel Chávez Arreola, Alessandro Zavala Solis, Adair Chávez Servín</span>"
+format: 
+  revealjs:
+    theme: moon
+    background-color: "#2E5A88"
+    slide-number: c/t
+    controls: true
+    progress: true
+    margin: 0.1
+    transition: fade
+    css: styles.css
+    logo: actuaria_logo.png
+    logo-position: bottom-right
+    logo-size: 1000px
+    footer: Casas de empeño
+---
+
+## Universidad Michoacana de San Nicolás de Hidalgo
+Integrantes:
+
+-   Ángel Gabriel Ramos Mendoza, 2123262e@umich.mx
+-   Yoshua Anaya Bedolla, 2408848x@umich.mx
+-   Miguel Ángel Chávez Arreola, 2408845d@umich.mx
+-   Alessandro Zavala Solis, 2122013h@umich.mx
+-   Adair Chávez Servín, 2408824g@umich.mx
+
+---
+
+## ¿Qué es una casa de empeño?
+
+Es una institución financiera que se dedica a hacer préstamos en efectivo a cambio de obtener del pignorante un bien de su propiedad, empleando como garantía prendaría dicho bien.
+
+Dicha garantía prendaría se puede clasificar como:
+
+:::columns
+:::{.column width="50%"}
+
+::: {.fragment .fade-in}
+1.- Joyas.
+:::
+
+::: {.fragment .fade-in}
+2.- Electrodomésticos varios.
+:::
+
+::: {.fragment .fade-in}
+3.- Automóviles.
+:::
+
+::: {.fragment .fade-in}
+4.- Hipotecas.
+:::
+
+:::
+
+:::{.column width="15%"}
+:::
+
+:::{.column width="35%"}
+:::
+
+:::
+
+---
+
+## ¿Cómo se clasfican?
+
+Existen dos tipos de casas de empeño: las instituciones de asistencia privada, las cuales no tienen fines de lucro; y las denominadas empresas privadas mercantiles, que sí persiguen fines de lucro.
+
+</br>
+
+Ambas se rigen por distintas leyes y disposiciones.
+
+---
+
+## Historia de origen
+
+::: columns
+:::{.column width="40%"}
+
+El origen de las casas de empeño no tiene una fecha exacta, pues existen registros de estas prácticas desde las antiguas civilizaciones de China, Grecia y Roma, donde se realizaban préstamos dejando objetos como garantía.
+:::
+
+::: {.column width="20%"}
+:::
+
+:::{.column width="40%"}
+![](nacionalmonte.jpeg){.absolute top="115" width="450" height="450"}
+
+:::
+:::
+
+---
+
+## Historia de origen
+
+En México, la primera institución de este tipo se fundó en Querétaro el 25 de febrero de 1775 gracias a Pedro Romero de Terreros, conde de Regla. Años más tarde, el Nacional Monte de Piedad en la Ciudad de México se consolidó como una de las casas de empeño más grandes de América Latina, destacando por los préstamos prendarios que ofrece hasta la actualidad.
+
+---
+
+## ¿Cómo funciona una casa de empeño?
+
+Una casa de empeño funciona otorgando un préstamo en efectivo a cambio de un bien como garantía prendaria. El cliente recibe dinero de forma inmediata, pero debe devolver el monto del préstamo más un porcentaje de intereses y comisiones en un plazo determinado.
+
+::: columns
+:::{.column width="50%"}
+
+Si el cliente no logra pagar el préstamo en el tiempo establecido, la casa de empeño tiene el derecho de venderlo para recuperar el dinero.
+:::
+
+:::{.colums width="50%"}
+
+![](logo11.jpeg){.absolute bottom="20" right="50" width="300"}
+:::
+
+:::
+---
+
+## Pasos para empeñar un artículo
+
+::: {.fragment .fade-up}
+1 -Entrega el bien: Llevas un objeto de valor, como joyería, electrónicos o herramientas, a la casa de empeño. 
+:::
+
+::: {.fragment .fade-left}
+2-  Avalúo y préstamo: Un experto valorará el objeto y te ofrecerá una suma de dinero, que es un porcentaje de su valor comercial. 
+:::
+
+::: {.fragment .fade-left}
+3- Contrato: Si aceptas, se firma un contrato que debe estar registrado en la PROFECO. Recibes efectivo, una boleta de empeño y una copia del contrato.
+:::
+
+::: {.fragment .fade-in}
+4- Plazo para recuperar: Tienes un plazo determinado para pagar el préstamo con intereses. De lo contrario, la casa venderá el artículo para así recuperar su dinero.
+:::
+
+---
+
+## Ventajas y desventajas de usar una casa de empeño
+
+El usar una casa de empeño tiene tanto aspectos positivos como negativos:
+
+::: columns
+:::{.column width="50%"}
+
+::: {.fragment .fade-up}
+Ventajas:
+:::
+
+::: {.fragment .fade-left}
+Acceso rápido al efectivo
+:::
+
+::: {.fragment .fade-left}
+Sin verificación de historial crediticio 
+:::
+
+::: {.fragment .fade-right}
+Confidencialidad y discreción
+:::
+
+::: {.fragment .fade-right}
+Sin obligación de pagos mensuales
+:::
+
+:::
+
+:::{.column width="50%"}
+
+
+::: {.fragment .fade-down}
+Desventajas:
+:::
+
+::: {.fragment .fade-right}
+Altas tasas de interés
+:::
+
+::: {.fragment .fade-right}
+Riesgo de perder la propiedad
+:::
+
+::: {.fragment .fade-left}
+Monto de préstamo inferior al valor real 
+:::
+
+::: {.fragment .fade-left}
+Plazos de pago cortos 
+:::
+
+:::
+
+:::
+
+---
+
+## Consejos para utilizar una casa de empeño
+
+Para saber cuál es la mejor forma de utilizar una casa de empeño, primero debemos repasar cómo funciona su modelo de negocio.
+
+::::::: columns
+:::::: {.column width="50%"}
+**Formas en que generan dinero:**
+
+::: {.fragment .fade-in}
+1.  **Intereses del préstamo**
+:::
+
+::: {.fragment .fade-in}
+2.  **Venta de artículos**
+:::
+
+::: {.fragment .fade-in}
+3.  **Comisiones adicionales**
+:::
+::::::
+:::::::
+
+------------------------------------------------------------------------
+
+## Antes de empeñar - Evaluación inicial
+
+::: {.fragment .fade-up}
+**Primero determina:** - ¿Existen mejores opciones de préstamo? - ¿Realmente necesitas empeñar?
+:::
+
+::: {.fragment .fade-left}
+**No empeñes:** - Artículos de vital importancia - Equipos que uses en tu día a día - Objetos con valor sentimental
+:::
+
+::: {.fragment .fade-left}
+**Investiga:** - Distintas casas de empeño disponibles - Compara tasas de interés y condiciones
+:::
+
+------------------------------------------------------------------------
+
+## Comparación objetiva entre casas de empeño
+
+Ejemplo analítico para tomar la mejor decisión:
+
+```{r}
+datos=data.frame(
+  casa=c("Casa A","Casa B","Casa C"),
+  valor_avaluado=c(5000,4800, 5200),
+  porcentaje_prestamo=c(0.6,0.7, 0.5),
+  tasa_mensual=c(0.04,0.05, 0.03),
+  plazo_meses=c(3,3, 3),
+  costos_adicionales=c(50, 0, 100)
+)
+
+datos=within(datos, {
+  capital_prestado=valor_avaluado*porcentaje_prestamo
+  interes_total=capital_prestado*tasa_mensual*plazo_meses
+  total_pagar=capital_prestado+interes_total+costos_adicionales
+})
+
+datos_mostrar= data.frame(
+  "Casa de empeño"=datos$casa,
+  "Valor avaluado"=paste0("$", round(datos$valor_avaluado)),
+  "Porcentaje Préstamo"=paste0(round(datos$porcentaje_prestamo * 100), "%"),
+  "Capital prestado"=paste0("$", round(datos$capital_prestado)),
+  "Tasa interés mensual" =paste0(round(datos$tasa_mensual * 100), "%"),
+  "Plazo meses"= datos$plazo_meses,
+  "Interés total"=paste0("$", round(datos$interes_total)),
+  "Costos adicionales"=paste0("$", round(datos$costos_adicionales)),
+  "Total a pagar"=paste0("$", round(datos$total_pagar))
+)
+#datos_mostrar
+datos_transpuesto=as.data.frame(t(datos_mostrar))
+colnames(datos_transpuesto)=datos_transpuesto[1, ]
+datos_transpuesto= datos_transpuesto[-1, ]
+datos_transpuesto
+
+print("Aunque la “Casa C” presta menos dinero, tiene el costo financiero total más bajo ($334 de intereses + costos). La Casa A, a pesar de tener una tasa más alta que la C, puede ser mejor que la B.")
+```
+---
+---
+## Puntos clave al empeñar:
+
+::: {.fragment .fade-up}
+**Verifica la valuación:** - Asegúrate que la valuación fraccionaria no sea muy baja
+:::
+
+::: {.fragment .fade-left}
+**Entiende las tasas:** - Confirma si la tasa es mensual, semestral o anual - Pregunta por costos adicionales (almacén, seguros)
+:::
+
+::: {.fragment .fade-left}
+**Calcula cuidadosamente:** - Interés = Capital × Tasa × Tiempo - Total a Pagar = Capital + Interés + Costos Adicionales
+:::
+
+::: {.fragment .fade-in}
+**Plazos y consecuencias:** - Ten presente la fecha de vencimiento - Pregunta qué pasa si te pasas de la fecha
+:::
+
+------------------------------------------------------------------------
+
+## Una vez que hayas empeñado
+
+::::: columns
+::: {.column width="50%"}
+**Planifica el pago:** - Ten claro cuándo vence el plazo - Asegúrate de tener el dinero para recuperar tu artículo - Recuerda: si no pagas a tiempo, pueden vender tu pertenencia
+:::
+
+::: {.column width="50%"}
+**Al recuperar:** - Paga capital más intereses acumulados - Recupera tu artículo inmediatamente - Verifica que esté en buen estado
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Recomendación final
+
+La mejor casa de empeño será aquella que:
+
+::: {.fragment .highlight-blue}
+-   Genere menos intereses totales
+-   Tenga costos adicionales transparentes
+-   Ofrezca condiciones claras y razonables
+-   Te permita pagar un menor porcentaje del monto prestado
+:::
+
+
+
+
